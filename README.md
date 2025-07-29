@@ -69,11 +69,7 @@ python mark_attendance.py
 
 ---
 
-## 📸 Screenshots (Optional)
 
-> Add webcam capture, attendance log screenshot here.
-
----
 
 ## 👨‍💻 Author
 
@@ -83,7 +79,5 @@ GitHub: [@Sibitharan](https://github.com/Sibitharan)
 
 ---
 
-## 🏁 License
 
-This project is for educational purposes only. Feel free to use and improve.
 
